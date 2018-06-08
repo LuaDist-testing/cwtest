@@ -1,10 +1,18 @@
-package = "cwtest"
-version = "1.1-1"
+-- This file was automatically generated for the LuaDist project.
 
+package = "cwtest"
+version = "1.2-1"
+
+-- LuaDist source
 source = {
-   url = "git://github.com/catwell/cwtest.git",
-   branch = "v1.1",
+  tag = "1.2-1",
+  url = "git://github.com/LuaDist-testing/cwtest.git"
 }
+-- Original source
+-- source = {
+--    url = "git://github.com/catwell/cwtest.git",
+--    branch = "v1.2",
+-- }
 
 description = {
    summary = "Test helper",
