@@ -1,9 +1,18 @@
-package = "cwtest"
-version = "scm-1"
+-- This file was automatically generated for the LuaDist project.
 
+package = "cwtest"
+version = "1.1-1"
+
+-- LuaDist source
 source = {
-   url = "git://github.com/catwell/cwtest.git",
+  tag = "1.1-1",
+  url = "git://github.com/LuaDist-testing/cwtest.git"
 }
+-- Original source
+-- source = {
+--    url = "git://github.com/catwell/cwtest.git",
+--    branch = "1.1",
+-- }
 
 description = {
    summary = "Test helper",
